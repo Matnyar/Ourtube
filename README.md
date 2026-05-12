@@ -9,7 +9,7 @@
 > Misuse of this repository by storing media files or running mass downloads via GitHub Actions violates [GitHub's Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) and may result in your account being suspended.
 
 <div align="center">
-   <img src="icon.gif" width="250" alt="wide-2" />
+   <img src="icon.gif" width="400" alt="wide-2" />
 </div>
 
 # 🪄 دانلودر یوتیوب ( نسخه ی ۲ )
